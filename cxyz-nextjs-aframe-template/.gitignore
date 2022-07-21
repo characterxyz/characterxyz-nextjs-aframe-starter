@@ -33,3 +33,17 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+
+# aframe
+.DS_Store
+.cache
+*.sw*
+build
+firefox/
+tests/coverage/
+gh-pages/
+karma.conf.js
+node_modules
+npm-debug.log*
+package-lock.json
